@@ -1,0 +1,571 @@
+1492227336776	geckodriver	INFO	Listening on 127.0.0.1:51065
+1492227337967	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.76uc51xiNjyL
+1492227337969	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492227338056	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51085
+1492227339561	Marionette	INFO	Listening on port 51085
+1492227340178	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-14 23:35:43.696 plugin-container[10018:306335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-14 23:35:43.701 plugin-container[10018:306335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1492227388694	geckodriver	INFO	Listening on 127.0.0.1:51481
+1492227389798	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.oAhdssPWlqJp
+1492227389799	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492227389801	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51500
+1492227390739	Marionette	INFO	Listening on port 51500
+1492227391205	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-14 23:36:33.391 plugin-container[10100:307882] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-14 23:36:33.392 plugin-container[10100:307882] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1492227624764	geckodriver	INFO	Listening on 127.0.0.1:53143
+1492227625877	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.gAV8a8aoQMtX
+1492227625879	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492227625883	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53162
+1492227627105	Marionette	INFO	Listening on port 53162
+1492227627638	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-14 23:40:30.276 plugin-container[10300:313370] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-14 23:40:30.289 plugin-container[10300:313370] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492229074256	geckodriver	INFO	Listening on 127.0.0.1:59835
+1492229075333	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.9ODVbbANo7OQ
+1492229075335	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492229075338	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59847
+1492229076569	Marionette	INFO	Listening on port 59847
+1492229077096	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-15 00:04:39.570 plugin-container[10645:322960] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-15 00:04:39.571 plugin-container[10645:322960] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1492229409901	geckodriver	INFO	Listening on 127.0.0.1:61801
+1492229411000	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.gthIcRBW9dbe
+1492229411002	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492229411005	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61820
+1492229411892	Marionette	INFO	Listening on port 61820
+1492229412342	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-15 00:10:14.261 plugin-container[10750:326132] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-15 00:10:14.264 plugin-container[10750:326132] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1492229443386	geckodriver	INFO	Listening on 127.0.0.1:62016
+1492229444437	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.bPIGhAVPA6Q1
+1492229444438	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492229444440	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62035
+1492229445396	Marionette	INFO	Listening on port 62035
+1492229445849	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-15 00:10:47.973 plugin-container[10784:326766] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-15 00:10:47.976 plugin-container[10784:326766] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:570:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:570:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:570:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:570:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:570:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:570:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+2017-04-15 00:18:16.280 plugin-container[10982:332692] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-15 00:18:16.283 plugin-container[10982:332692] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-15 00:19:00.795 plugin-container[11021:333645] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-15 00:19:00.798 plugin-container[11021:333645] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1492229968028	geckodriver	INFO	Listening on 127.0.0.1:64940
+1492229969108	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.qTBHA5JVB5g9
+1492229969110	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492229969112	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64958
+1492229970053	Marionette	INFO	Listening on port 64958
+1492229970567	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-15 00:19:32.514 plugin-container[11040:334142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x942f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-15 00:19:32.517 plugin-container[11040:334142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-15 00:23:27.099 firefox-bin[11038:334050] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.
+2017-04-15 00:23:30.779 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:30.779 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:30.839 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:30.839 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:30.839 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:30.839 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:30.863 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:30.863 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:30.865 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:30.865 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:36.646 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:36.646 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:36.648 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:36.648 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:36.649 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:36.649 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:36.695 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:36.695 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:36.696 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:36.696 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:36.697 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:36.697 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:46.857 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:46.866 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:46.875 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:46.875 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:46.877 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:46.877 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:46.914 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:46.914 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:46.915 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:46.915 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:46.916 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:46.916 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:47.118 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:47.118 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:47.119 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:47.119 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:47.120 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:47.120 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:47.170 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:47.170 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:47.171 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:47.171 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:47.173 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:47.173 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:53.907 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:53.909 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:53.910 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:53.910 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:53.910 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:53.910 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:54.175 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:54.175 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:54.176 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:54.176 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:54.176 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:54.176 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:54.722 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:54.722 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:54.722 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:54.723 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:54.724 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:54.724 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:54.871 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:54.872 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:54.878 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:54.878 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:23:54.881 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:23:54.881 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:24:14.305 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:24:14.313 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:24:14.314 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:24:14.314 plugin-container[11040:334142] Warning: did not get back top right metric
+2017-04-15 00:24:14.316 plugin-container[11040:334142] Warning: did not get back bottom left metric
+2017-04-15 00:24:14.316 plugin-container[11040:334142] Warning: did not get back top right metric
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 11040] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 11040] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492725641801	geckodriver	INFO	Listening on 127.0.0.1:53141
+1492725643092	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.VeW0F2FOp2IO
+1492725643093	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492725643221	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53156
+1492725645137	Marionette	INFO	Listening on port 53156
+1492725645761	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:00:49.263 plugin-container[41721:1209677] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:00:49.272 plugin-container[41721:1209677] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.youtube.com/sw.js for scope https://www.youtube.com/ encountered an error during installation.
+1492725698976	geckodriver	INFO	Listening on 127.0.0.1:53331
+1492725701119	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.BrBT7ucPe3HB
+1492725701121	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492725701125	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53343
+1492725702788	Marionette	INFO	Listening on port 53343
+1492725703419	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:01:46.599 plugin-container[41801:1211764] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:01:46.601 plugin-container[41801:1211764] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.youtube.com/sw.js for scope https://www.youtube.com/ encountered an error during installation.
+2017-04-20 18:03:30.629 firefox-bin[41799:1211629] Warning: did not get back bottom left metric
+2017-04-20 18:03:30.629 firefox-bin[41799:1211629] Warning: did not get back top right metric
+1492725970309	geckodriver	INFO	Listening on 127.0.0.1:53819
+1492725971447	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.15Fs3VsSCjJ1
+1492725971448	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492725971452	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53830
+1492725972583	Marionette	INFO	Listening on port 53830
+1492725973042	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:06:15.144 plugin-container[41898:1214955] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:06:15.148 plugin-container[41898:1214955] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1492726171245	geckodriver	INFO	Listening on 127.0.0.1:54165
+1492726172321	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.lipdfQHshe80
+1492726172322	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492726172325	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54176
+1492726173402	Marionette	INFO	Listening on port 54176
+1492726173834	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:09:35.937 plugin-container[42032:1219184] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:09:35.941 plugin-container[42032:1219184] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492726378521	geckodriver	INFO	Listening on 127.0.0.1:54527
+1492726379665	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.30MAmKBT2p4v
+1492726379668	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492726379672	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54539
+1492726380716	Marionette	INFO	Listening on port 54539
+1492726381373	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:13:03.685 plugin-container[42182:1223200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:13:03.705 plugin-container[42182:1223200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492726809709	geckodriver	INFO	Listening on 127.0.0.1:55229
+1492726810901	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.wobNW5hIkGsk
+1492726810903	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492726810906	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55241
+1492726811999	Marionette	INFO	Listening on port 55241
+1492726812659	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:20:14.796 plugin-container[42347:1228124] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9433, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:20:14.803 plugin-container[42347:1228124] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492726940130	geckodriver	INFO	Listening on 127.0.0.1:55481
+1492726941221	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.KCYpOe0ZvCdM
+1492726941223	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492726941226	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55492
+1492726942094	Marionette	INFO	Listening on port 55492
+1492726942477	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:22:24.200 plugin-container[42387:1229212] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:22:24.211 plugin-container[42387:1229212] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492727244123	geckodriver	INFO	Listening on 127.0.0.1:55974
+1492727245291	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.hvC8E6J9twHO
+1492727245293	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492727245297	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55985
+1492727246751	Marionette	INFO	Listening on port 55985
+1492727247409	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:27:29.948 plugin-container[42517:1232854] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:27:29.953 plugin-container[42517:1232854] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492727871185	geckodriver	INFO	Listening on 127.0.0.1:56930
+1492727872345	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.OQsjkuWN2W5L
+1492727872347	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492727872350	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56942
+1492727873784	Marionette	INFO	Listening on port 56942
+1492727874548	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:37:57.969 plugin-container[42733:1238872] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:37:57.973 plugin-container[42733:1238872] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492727926976	geckodriver	INFO	Listening on 127.0.0.1:57090
+1492727928186	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.VHn2xC6Lfiv2
+1492727928187	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492727928191	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57101
+1492727929428	Marionette	INFO	Listening on port 57101
+1492727930800	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:38:52.301 plugin-container[42806:1240557] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x910b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:38:52.307 plugin-container[42806:1240557] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492728039923	geckodriver	INFO	Listening on 127.0.0.1:57309
+1492728042039	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.JYwYAomEz8tW
+1492728042041	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728042045	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57322
+1492728043463	Marionette	INFO	Listening on port 57322
+1492728045750	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:40:46.335 plugin-container[42907:1243154] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:40:46.339 plugin-container[42907:1243154] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: inspector.selection is undefined
+Full stack: nsContextMenu.prototype.inspectNode/<@chrome://browser/content/nsContextMenu.js:576:11
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1492728085301	geckodriver	INFO	Listening on 127.0.0.1:57428
+1492728086389	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.TWC1n8vKmjte
+1492728086391	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728086393	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57439
+1492728087249	Marionette	INFO	Listening on port 57439
+1492728087638	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:41:29.359 plugin-container[42930:1243812] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:41:29.371 plugin-container[42930:1243812] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: inspector.selection is undefined
+Full stack: nsContextMenu.prototype.inspectNode/<@chrome://browser/content/nsContextMenu.js:576:11
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1492728262354	geckodriver	INFO	Listening on 127.0.0.1:57719
+1492728263439	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.0TvJ8mRja4yP
+1492728263440	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728263443	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57732
+1492728264351	Marionette	INFO	Listening on port 57732
+1492728264778	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:44:26.695 plugin-container[42969:1245071] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:44:26.698 plugin-container[42969:1245071] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492728299025	geckodriver	INFO	Listening on 127.0.0.1:57844
+1492728300102	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.EKgaGISKjY25
+1492728300104	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728300106	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57855
+1492728300972	Marionette	INFO	Listening on port 57855
+1492728301365	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:45:03.323 plugin-container[42994:1245630] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:45:03.328 plugin-container[42994:1245630] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492728349311	geckodriver	INFO	Listening on 127.0.0.1:57981
+1492728350471	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.fws8IkNAlL5m
+1492728350472	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728350476	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57992
+1492728351842	Marionette	INFO	Listening on port 57992
+1492728352365	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:45:55.115 plugin-container[43037:1247057] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:45:55.123 plugin-container[43037:1247057] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1492728396024	geckodriver	INFO	Listening on 127.0.0.1:58117
+1492728397191	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.Qr5oqxaRi1IC
+1492728397193	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728397196	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58129
+1492728398154	Marionette	INFO	Listening on port 58129
+1492728398609	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:46:40.796 plugin-container[43102:1248433] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:46:40.800 plugin-container[43102:1248433] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492728436541	geckodriver	INFO	Listening on 127.0.0.1:58250
+1492728437656	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.z6tDvpvGelke
+1492728437657	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728437661	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58261
+1492728438818	Marionette	INFO	Listening on port 58261
+1492728439315	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:47:21.771 plugin-container[43158:1249789] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:47:21.774 plugin-container[43158:1249789] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1492728443163	Marionette	INFO	New connections will no longer be accepted
+[Child 43158] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 43158] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492728467921	geckodriver	INFO	Listening on 127.0.0.1:58362
+1492728469058	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.wtjd32blsNKF
+1492728469060	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728469063	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58373
+1492728470619	Marionette	INFO	Listening on port 58373
+1492728471198	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:47:53.902 plugin-container[43187:1250641] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:47:53.907 plugin-container[43187:1250641] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1492728475265	Marionette	INFO	New connections will no longer be accepted
+[Child 43187] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 43187] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492728558339	geckodriver	INFO	Listening on 127.0.0.1:58561
+1492728559430	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.kyVPt3L9YXdV
+1492728559431	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728559436	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58572
+1492728560764	Marionette	INFO	Listening on port 58572
+1492728561286	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:49:23.654 plugin-container[43218:1251928] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:49:23.671 plugin-container[43218:1251928] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492728565442	Marionette	INFO	New connections will no longer be accepted
+[Child 43218] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 43218] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492728588897	geckodriver	INFO	Listening on 127.0.0.1:58685
+1492728589932	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.bPA5UYeGxX9h
+1492728589941	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728589945	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58696
+1492728590803	Marionette	INFO	Listening on port 58696
+1492728591369	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:49:53.767 plugin-container[43238:1252763] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:49:53.777 plugin-container[43238:1252763] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492728651987	geckodriver	INFO	Listening on 127.0.0.1:58845
+1492728653081	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.hdBx8EKOkqN8
+1492728653082	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728653085	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58856
+1492728653944	Marionette	INFO	Listening on port 58856
+1492728654353	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:50:56.025 plugin-container[43268:1253441] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:50:56.042 plugin-container[43268:1253441] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492728744766	geckodriver	INFO	Listening on 127.0.0.1:59056
+1492728745922	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.8CXlGirlgdXz
+1492728745924	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728745927	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59068
+1492728746849	Marionette	INFO	Listening on port 59068
+1492728747265	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:52:29.237 plugin-container[43306:1254703] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:52:29.241 plugin-container[43306:1254703] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1492728996260	geckodriver	INFO	Listening on 127.0.0.1:59497
+1492728997338	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.QFbZB6gh5b7V
+1492728997339	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492728997343	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59508
+1492728998443	Marionette	INFO	Listening on port 59508
+1492728999107	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 18:56:41.261 plugin-container[43426:1257817] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 18:56:41.265 plugin-container[43426:1257817] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.youtube.com/sw.js for scope https://www.youtube.com/ encountered an error during installation.
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.youtube.com/sw.js for scope https://www.youtube.com/ encountered an error during installation.
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.youtube.com/sw.js for scope https://www.youtube.com/ encountered an error during installation.
+1492729209871	geckodriver	INFO	Listening on 127.0.0.1:59888
+1492729210974	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.FALyZ0WU1S6A
+1492729210975	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492729210979	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59900
+1492729211998	Marionette	INFO	Listening on port 59900
+1492729212644	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 19:00:14.643 plugin-container[43472:1259335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 19:00:14.648 plugin-container[43472:1259335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.youtube.com/sw.js for scope https://www.youtube.com/ encountered an error during installation.
+1492729236706	geckodriver	INFO	Listening on 127.0.0.1:60026
+1492729237788	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.ea6dBTkCoIY4
+1492729237789	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492729237792	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60038
+1492729238726	Marionette	INFO	Listening on port 60038
+1492729239166	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 19:00:41.029 plugin-container[43496:1259812] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 19:00:41.034 plugin-container[43496:1259812] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.youtube.com/sw.js for scope https://www.youtube.com/ encountered an error during installation.
+1492729256061	geckodriver	INFO	Listening on 127.0.0.1:60146
+1492729257144	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.s9rVr0PDnPqd
+1492729257146	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492729257148	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60157
+1492729258115	Marionette	INFO	Listening on port 60157
+1492729258578	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 19:01:00.464 plugin-container[43511:1260152] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 19:01:00.466 plugin-container[43511:1260152] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1492729464531	geckodriver	INFO	Listening on 127.0.0.1:60484
+1492729465611	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.9BAClmsWhP77
+1492729465612	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492729465615	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60495
+1492729466478	Marionette	INFO	Listening on port 60495
+1492729466906	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 19:04:28.767 plugin-container[43539:1261296] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 19:04:28.771 plugin-container[43539:1261296] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.youtube.com/sw.js for scope https://www.youtube.com/ encountered an error during installation.
+1492729580293	geckodriver	INFO	Listening on 127.0.0.1:60749
+1492729581439	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.5iNfiGWh6bUA
+1492729581441	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492729581444	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60761
+1492729582534	Marionette	INFO	Listening on port 60761
+1492729583010	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 19:06:24.882 plugin-container[43577:1262437] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 19:06:24.888 plugin-container[43577:1262437] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.youtube.com/sw.js for scope https://www.youtube.com/ encountered an error during installation.
+1492729628752	geckodriver	INFO	Listening on 127.0.0.1:60916
+1492729629848	mozprofile::profile	INFO	Using profile path /var/folders/fv/w8c0xlbn6xlb_nfzs1r5l5nw0000gn/T/rust_mozprofile.wpHELxGOc9l2
+1492729629849	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1492729629851	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60928
+1492729630744	Marionette	INFO	Listening on port 60928
+1492729631152	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-20 19:07:12.770 plugin-container[43598:1263034] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-20 19:07:12.777 plugin-container[43598:1263034] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.youtube.com/sw.js for scope https://www.youtube.com/ encountered an error during installation.

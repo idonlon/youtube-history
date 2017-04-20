@@ -1,0 +1,35 @@
+require "hbc/topological_hash"
+
+module Hbc
+  class CaskDependencies
+    attr_reader :cask, :graph, :sorted
+
+    def initialize(cask)
+      @cask = cask
+      @graph = graph_dependencies
+      @sorted = sort
+    end
+
+    def graph_dependencies
+      deps_in = ->(csk) { csk.depends_on ? csk.depends_on.cask || [] : [] }
+      walk = lambda do |acc, deps|
+        deps.each do |dep|
+          next if acc.key?(dep)
+          succs = deps_in.call CaskLoader.load(dep)
+          acc[dep] = succs
+          walk.call(acc, succs)
+        end
+        acc
+      end
+
+      graphed = walk.call({}, @cask.depends_on.cask)
+      TopologicalHash[graphed]
+    end
+
+    def sort
+      @graph.tsort
+    rescue TSort::Cyclic
+      raise CaskCyclicCaskDependencyError, @cask.token
+    end
+  end
+end
